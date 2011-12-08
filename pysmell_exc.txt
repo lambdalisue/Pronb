@@ -1,5 +1,0 @@
-Traceback (most recent call last):
-  File "<string>", line 9, in vimcompletePYSMELL
-  File "/home/alisue/.pythonbrew/pythons/Python-2.7.2/lib/python2.7/site-packages/pysmell/idehelper.py", line 236, in detectCompletionType
-    isArgCompletion = base.endswith('(') and leftSide.endswith(base)
-AttributeError: 'NoneType' object has no attribute 'endswith'

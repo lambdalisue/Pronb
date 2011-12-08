@@ -1,0 +1,16 @@
+# python
+*.py[co]
+/build
+/*.egg
+/*.egg-info
+# django
+/*.db
+/static/collection
+/src/**/local_settings.py
+/src/**/local_site.py
+# vim
+/.ropeproject
+# pysmell
+/pysmell_exc.txt
+/PYSMELLTAGS
+/PYSMELLTAGS.*
